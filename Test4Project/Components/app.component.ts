@@ -5,4 +5,6 @@
     selector: 'app',
     templateUrl: '../UI/app.html',
 })
+
+
 export class AppComponent { }
